@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TPE>
+  <w>64</w>
+  <h>64</h>
+  <name>Default</name>
+  <hasAlpha>True</hasAlpha>
+  <hash>2276245927</hash>
+  <xoffset>0</xoffset>
+  <yoffset>0</yoffset>
+  <cropWidth>64</cropWidth>
+  <cropHeight>64</cropHeight>
+  <ow>64</ow>
+  <oh>64</oh>
+  <image>spr_backstage_d74dafe7-2f4b-4739-bf74-246764a87149.tpe.png</image>
+</TPE>

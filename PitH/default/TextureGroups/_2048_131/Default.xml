@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="1" mipsToGenerate="0">Default_0.png</texture>
+  <tpe x="2" y="2" tpage="Default_0" entry="0">spr_plr_right_c432762f-c2fc-41b7-a326-94b4bcc5d731.tpe</tpe>
+  <tpe x="2" y="22" tpage="Default_0" entry="1">spr_plr_right_fdc1d62d-f973-4407-92cb-1bb1a70aa2b7.tpe</tpe>
+  <tpe x="2" y="42" tpage="Default_0" entry="2">spr_plr_right_ecbce292-fbef-46a0-a82e-544583fc36c5.tpe</tpe>
+  <tpe x="2" y="62" tpage="Default_0" entry="3">spr_plr_right_89529012-9c09-4bbd-b233-0262a23d5653.tpe</tpe>
+  <tpe x="2" y="82" tpage="Default_0" entry="4">spr_plr2_right_2d9ca5e7-babd-4add-8114-9aa8fc16b3ab.tpe</tpe>
+  <tpe x="18" y="2" tpage="Default_0" entry="5">spr_plr2_right_ffb6035f-bbf3-4e25-9d90-d9d79aa9fe35.tpe</tpe>
+  <tpe x="18" y="38" tpage="Default_0" entry="6">spr_plr2_right_7ac10d38-3d2f-4787-8c8a-04342a867252.tpe</tpe>
+  <tpe x="22" y="74" tpage="Default_0" entry="7">spr_plr2_right_11b23efd-ba5d-41dd-9456-123189ca4f43.tpe</tpe>
+  <tpe x="38" y="2" tpage="Default_0" entry="8">spr_plr2_right_0beb9fb6-1000-4f91-9571-229db61bce39.tpe</tpe>
+  <tpe x="58" y="2" tpage="Default_0" entry="9">spr_gnd_7334b891-a749-46db-b1ec-05d5b5c678db.tpe</tpe>
+  <tpe x="42" y="38" tpage="Default_0" entry="10">spr_backstage_d74dafe7-2f4b-4739-bf74-246764a87149.tpe</tpe>
+</TextureGroup>
